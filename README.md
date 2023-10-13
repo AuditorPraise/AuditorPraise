@@ -1,6 +1,8 @@
-
+![Header](./[https://i.gifer.com/V3Fa.gif])
 <h1 align="center">Hi 👋, I'm Praise</h1>
-<h3 align="center">A Passionate Smart Contract Auditor</h3>
+<h3 align="center">A Passionate Blockchain Security Researcher</h3>
+
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auditorpraise&label=Profile%20views&color=0e75b6&style=flat" alt="auditorpraise" /> </p>
 
