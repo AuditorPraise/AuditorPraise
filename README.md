@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Praise</h1>
 <h3 align="center">A Passionate Blockchain Security Researcher</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auditorpraise&label=Profile%20views&color=0e75b6&style=flat" alt="auditorpraise" /> </p>
 
