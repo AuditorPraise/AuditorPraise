@@ -1,4 +1,5 @@
-[![MasterHead](https://i.gifer.com/V3Fa.gif)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Praise</h1>
 <h3 align="center">A Passionate Blockchain Security Researcher</h3>
 
@@ -22,7 +23,7 @@
 
 - 📫 How to reach me **Praiseonline247@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
