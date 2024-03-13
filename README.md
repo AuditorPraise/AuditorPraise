@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Freelancing on [Sherlock-Defi](https://audits.sherlock.xyz/contests)
 
-- 🌱 I’m currently learning **Foundry.**
+- 🌱 I have mastered **Foundry.**
 
 - 👯 I’m looking to collaborate on **Audits and Smart contract code reviews**
 
