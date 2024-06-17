@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Solidity, Blockchain and Security**
 
-- 📫 How to reach me **Praiseonline247@gmail.com**
+- 📫 Contact me **Praiseonline247@gmail.com**
 
 
 <p align="left">
