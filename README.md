@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Praise</h1>
-<h3 align="center">A Passionate Blockchain Security Researcher</h3>
+<h3 align="center">A Passionate Blockchain Security Researcher, I'm also a Full Stack Dev </h3>
 
 <img align="center" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auditorpraise" alt="auditorpraise" /></a> </p>
 
-- 🔭 I’m currently Freelancing on [Sherlock-Defi](https://audits.sherlock.xyz/contests)
+- 🔭 I’m currently Freelancing on [Sherlock-Defi](https://audits.sherlock.xyz/contests) & Upwork
 
 - 🌱 I have mastered **Foundry.**
 
-- 👯 I’m looking to collaborate on **Audits and Smart contract code reviews**
+- 👯 I’m looking to collaborate on **Audits and Smart contract code reviews** and Web App Development gigs
 
 - 🤝 I’m looking for help with **referrals, you could help connect me with people who are in need of my services.**
 
 - 👨‍💻 All of my past audit reports are available at [https://github.com/AuditorPraise/Portfolio](https://github.com/AuditorPraise/Portfolio)
 
-- 💬 Ask me about **Solidity, Blockchain and Security**
+- 💬 Ask me about **Solidity, Blockchain Security and Web App Development**
 
 - 📫 Contact me **Praiseonline247@gmail.com**
 
