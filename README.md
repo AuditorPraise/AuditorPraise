@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **referrals, you could help connect me with people who are in need of my services.**
 
-- 👨‍💻 All of my past audit reports are available at [https://github.com/AuditorPraise/Portfolio](https://github.com/AuditorPraise/Portfolio)
+- 👨‍💻 All of my past audit reports are available at https://audits.sherlock.xyz/watson/AuditorPraise
 
 - 💬 Ask me about **Solidity & Blockchain Security**
 
